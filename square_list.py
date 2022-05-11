@@ -1,4 +1,4 @@
-Author: Christopher Boyd
+#Author: Christopher Boyd
 # GitHub username: CtheBoyd
 # Date: 5/11/2022
 # Description: Takes a number list and squares each number in that list.
