@@ -1,4 +1,4 @@
-Author: Christopher Boyd
+#Author: Christopher Boyd
 # GitHub username: CtheBoyd
 # Date: 5/11/2022
 # Description: Takes a list and reverses the index order.
